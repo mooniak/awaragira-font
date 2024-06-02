@@ -1,0 +1,78 @@
+{
+glyphname = sinNdI;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (632,0);
+ref = sinMatraI;
+},
+{
+ref = sinNda;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -200;
+width = 66;
+},
+{
+position = 0;
+width = 48;
+},
+{
+position = 0;
+width = 64;
+},
+{
+position = 48;
+width = 18;
+},
+{
+position = 323;
+width = 66;
+},
+{
+position = 471;
+width = 64;
+},
+{
+position = 734;
+width = 66;
+}
+);
+vhints = (
+{
+position = 50;
+width = 64;
+},
+{
+position = 104;
+width = 66;
+},
+{
+position = 192;
+width = 68;
+},
+{
+position = 354;
+width = 66;
+},
+{
+position = 516;
+width = 66;
+},
+{
+position = 586;
+width = 66;
+}
+);
+};
+};
+width = 647;
+}
+);
+}

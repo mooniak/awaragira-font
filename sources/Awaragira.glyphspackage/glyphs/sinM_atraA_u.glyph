@@ -1,0 +1,37 @@
+{
+glyphname = sinMatraAu;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(776,225,o),
+(815,279,o),
+(815,335,cs),
+(815,391,o),
+(776,445,o),
+(708,445,cs),
+(647,445,o),
+(602,394,o),
+(602,335,cs),
+(602,277,o),
+(644,225,o),
+(708,225,cs)
+);
+},
+{
+pos = (12,0);
+ref = sinMatraE;
+},
+{
+pos = (918,0);
+ref = sinMatraLs;
+}
+);
+width = 1359;
+}
+);
+unicode = 3550;
+}

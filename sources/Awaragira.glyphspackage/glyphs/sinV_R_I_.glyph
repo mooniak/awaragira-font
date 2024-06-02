@@ -1,0 +1,26 @@
+{
+glyphname = sinVRI;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = sinRakar;
+userData = {
+UFO.identifier = 9AF98145;
+};
+},
+{
+alignment = -1;
+ref = sinVI;
+userData = {
+UFO.identifier = B163A37F;
+};
+}
+);
+width = 638;
+}
+);
+}

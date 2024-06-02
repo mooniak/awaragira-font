@@ -1,0 +1,74 @@
+{
+glyphname = sinPRa;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (-6,0);
+ref = sinRakar;
+userData = {
+UFO.identifier = 1426C3A5;
+};
+},
+{
+alignment = -1;
+ref = sinPa;
+userData = {
+UFO.identifier = 818B8CDF;
+};
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -200;
+width = 66;
+},
+{
+position = 0;
+width = 66;
+},
+{
+position = 323;
+width = 66;
+},
+{
+position = 473;
+width = 62;
+}
+);
+vhints = (
+{
+position = 40;
+width = 66;
+},
+{
+position = 53;
+width = 66;
+},
+{
+position = 71;
+width = 62;
+},
+{
+position = 501;
+width = 62;
+},
+{
+position = 515;
+width = 66;
+},
+{
+position = 528;
+width = 66;
+}
+);
+};
+};
+width = 634;
+}
+);
+}

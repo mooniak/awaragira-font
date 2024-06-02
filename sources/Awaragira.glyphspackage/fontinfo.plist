@@ -1,0 +1,798 @@
+{
+.appVersion = "3260";
+.formatVersion = 3;
+customParameters = (
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
+}
+);
+date = "2021-06-28 04:14:33 +0000";
+familyName = Awaragira;
+featurePrefixes = (
+{
+code = "languagesystem DFLT dflt;
+languagesystem sinh dflt;
+";
+name = Languagesystems;
+},
+{
+code = "# GSUB 
+
+lookup akhnAkhandinSinhalalookup1 {
+  lookupflag 0;
+    sub \\sinKa \\sinVirama \\uni200D \\sinSsa  by \\sinKSsa;
+    sub \\sinKa \\sinVirama \\uni200D \\sinVa  by \\sinKVa;
+    sub \\sinTa \\sinVirama \\uni200D \\sinVa  by \\sinTVa;
+    sub \\sinTa \\sinVirama \\uni200D \\sinTha  by \\sinTTha;
+    sub \\sinNa \\sinVirama \\uni200D \\sinDa  by \\sinNDa;
+    sub \\sinNa \\sinVirama \\uni200D \\sinDha  by \\sinNDha;
+    sub \\sinNa \\sinVirama \\uni200D \\sinVa  by \\sinNVa;
+    sub \\sinNa \\sinVirama \\uni200D \\sinTha  by \\sinNTha;
+    sub \\sinDa \\sinVirama \\uni200D \\sinVa  by \\sinDVa;
+    sub \\sinDa \\sinVirama \\uni200D \\sinDha  by \\sinDDha;
+    sub \\sinTta \\sinVirama \\uni200D \\sinTtha  by \\sinTtTtha;
+} akhnAkhandinSinhalalookup1;
+
+lookup rphfRephForminSinhalalookup2 {
+  lookupflag 0;
+    sub \\sinRa \\sinVirama \\uni200D  by \\sinReph;
+} rphfRephForminSinhalalookup2;
+
+lookup abvsAboveBaseSubstitutionsinSinhalalookup3 {
+  lookupflag 0;
+    sub \\sinMatraAa \\sinVirama  by \\sinMatraAa;
+    sub \\sinYansaya \\sinVirama  by \\sinYansaya;
+    sub \\sinKa \\sinVirama  by \\sinK;
+    sub \\sinKha \\sinVirama  by \\sinKh;
+    sub \\sinGa \\sinVirama  by \\sinG;
+    sub \\sinGha \\sinVirama  by \\sinGh;
+    sub \\sinNga \\sinVirama  by \\sinNg;
+    sub \\sinNnga \\sinVirama  by \\sinNng;
+    sub \\sinCa \\sinVirama  by \\sinC;
+    sub \\sinCha \\sinVirama  by \\sinCh;
+    sub \\sinJa \\sinVirama  by \\sinJ;
+    sub \\sinJha \\sinVirama  by \\sinJh;
+    sub \\sinNya \\sinVirama  by \\sinNy;
+    sub \\sinJnya \\sinVirama  by \\sinJny;
+    sub \\sinNyja \\sinVirama  by \\sinNyj;
+    sub \\sinTta \\sinVirama  by \\sinTt;
+    sub \\sinTtha \\sinVirama  by \\sinTth;
+    sub \\sinDda \\sinVirama  by \\sinDd;
+    sub \\sinDdha \\sinVirama  by \\sinDdh;
+    sub \\sinNna \\sinVirama  by \\sinNn;
+    sub \\sinNndda \\sinVirama  by \\sinNndd;
+    sub \\sinTa \\sinVirama  by \\sinT;
+    sub \\sinTha \\sinVirama  by \\sinTh;
+    sub \\sinDa \\sinVirama  by \\sinD;
+    sub \\sinDha \\sinVirama  by \\sinDh;
+    sub \\sinNa \\sinVirama  by \\sinN;
+    sub \\sinNda \\sinVirama  by \\sinNd;
+    sub \\sinPa \\sinVirama  by \\sinP;
+    sub \\sinPha \\sinVirama  by \\sinPh;
+    sub \\sinBa \\sinVirama  by \\sinB;
+    sub \\sinBha \\sinVirama  by \\sinBh;
+    sub \\sinMa \\sinVirama  by \\sinM;
+    sub \\sinMba \\sinVirama  by \\sinMb;
+    sub \\sinYa \\sinVirama  by \\sinY;
+    sub \\sinRa \\sinVirama  by \\sinR;
+    sub \\sinLa \\sinVirama  by \\sinL;
+    sub \\sinVa \\sinVirama  by \\sinV;
+    sub \\sinSha \\sinVirama  by \\sinSh;
+    sub \\sinSsa \\sinVirama  by \\sinSs;
+    sub \\sinSa \\sinVirama  by \\sinS;
+    sub \\sinHa \\sinVirama  by \\sinH;
+    sub \\sinLla \\sinVirama  by \\sinLl;
+    sub \\sinFa \\sinVirama  by \\sinF;
+    sub \\sinKSsa \\sinVirama  by \\sinKSs;
+    sub \\sinKVa \\sinVirama  by \\sinKV;
+    sub \\sinTVa \\sinVirama  by \\sinTV;
+    sub \\sinTTha \\sinVirama  by \\sinTTh;
+    sub \\sinNDa \\sinVirama  by \\sinND;
+    sub \\sinNDha \\sinVirama  by \\sinNDh;
+    sub \\sinNVa \\sinVirama  by \\sinNV;
+    sub \\sinNTha \\sinVirama  by \\sinNTh;
+    sub \\sinDVa \\sinVirama  by \\sinDV;
+    sub \\sinDDha \\sinVirama  by \\sinDDh;
+    sub \\sinTtTtha \\sinVirama  by \\sinTtTth;
+    sub \\sinKRa \\sinVirama  by \\sinKR;
+    sub \\sinKhRa \\sinVirama  by \\sinKhR;
+    sub \\sinGRa \\sinVirama  by \\sinGR;
+    sub \\sinGhRa \\sinVirama  by \\sinGhR;
+    sub \\sinCRa \\sinVirama  by \\sinCR;
+    sub \\sinJRa \\sinVirama  by \\sinJR;
+    sub \\sinJhRa \\sinVirama  by \\sinJhR;
+    sub \\sinNyRa \\sinVirama  by \\sinNyR;
+    sub \\sinJnyRa \\sinVirama  by \\sinJnyR;
+    sub \\sinNyjRa \\sinVirama  by \\sinNyjR;
+    sub \\sinTtRa \\sinVirama  by \\sinTtR;
+    sub \\sinDdRa \\sinVirama  by \\sinDdR;
+    sub \\sinTRa \\sinVirama  by \\sinTR;
+    sub \\sinDRa \\sinVirama  by \\sinDR;
+    sub \\sinDhRa \\sinVirama  by \\sinDhR;
+    sub \\sinPRa \\sinVirama  by \\sinPR;
+    sub \\sinBRa \\sinVirama  by \\sinBR;
+    sub \\sinBhRa \\sinVirama  by \\sinBhR;
+    sub \\sinMRa \\sinVirama  by \\sinMR;
+    sub \\sinVRa \\sinVirama  by \\sinVR;
+    sub \\sinShRa \\sinVirama  by \\sinShR;
+    sub \\sinSsRa \\sinVirama  by \\sinSsR;
+    sub \\sinSRa \\sinVirama  by \\sinSR;
+    sub \\sinHRa \\sinVirama  by \\sinHR;
+    sub \\sinFRa \\sinVirama  by \\sinFR;
+} abvsAboveBaseSubstitutionsinSinhalalookup3;
+
+lookup abvsAboveBaseSubstitutionsinSinhalalookup4 {
+  lookupflag 0;
+    sub \\sinKa \\sinMatraI  by \\sinKI;
+    sub \\sinKha \\sinMatraI  by \\sinKhI;
+    sub \\sinGa \\sinMatraI  by \\sinGI;
+    sub \\sinGha \\sinMatraI  by \\sinGhI;
+    sub \\sinNga \\sinMatraI  by \\sinNgI;
+    sub \\sinNnga \\sinMatraI  by \\sinNngI;
+    sub \\sinCa \\sinMatraI  by \\sinCI;
+    sub \\sinCha \\sinMatraI  by \\sinChI;
+    sub \\sinJa \\sinMatraI  by \\sinJI;
+    sub \\sinJha \\sinMatraI  by \\sinJhI;
+    sub \\sinNya \\sinMatraI  by \\sinNyI;
+    sub \\sinJnya \\sinMatraI  by \\sinJnyI;
+    sub \\sinNyja \\sinMatraI  by \\sinNyjI;
+    sub \\sinTta \\sinMatraI  by \\sinTtI;
+    sub \\sinTtha \\sinMatraI  by \\sinTthI;
+    sub \\sinDda \\sinMatraI  by \\sinDdI;
+    sub \\sinDdha \\sinMatraI  by \\sinDdhI;
+    sub \\sinNna \\sinMatraI  by \\sinNnI;
+    sub \\sinNndda \\sinMatraI  by \\sinNnddI;
+    sub \\sinTa \\sinMatraI  by \\sinTI;
+    sub \\sinTha \\sinMatraI  by \\sinThI;
+    sub \\sinDa \\sinMatraI  by \\sinDI;
+    sub \\sinDha \\sinMatraI  by \\sinDhI;
+    sub \\sinNa \\sinMatraI  by \\sinNI;
+    sub \\sinNda \\sinMatraI  by \\sinNdI;
+    sub \\sinPa \\sinMatraI  by \\sinPI;
+    sub \\sinPha \\sinMatraI  by \\sinPhI;
+    sub \\sinBa \\sinMatraI  by \\sinBI;
+    sub \\sinBha \\sinMatraI  by \\sinBhI;
+    sub \\sinMa \\sinMatraI  by \\sinMI;
+    sub \\sinMba \\sinMatraI  by \\sinMbI;
+    sub \\sinYa \\sinMatraI  by \\sinYI;
+    sub \\sinRa \\sinMatraI  by \\sinRI;
+    sub \\sinLa \\sinMatraI  by \\sinLI;
+    sub \\sinVa \\sinMatraI  by \\sinVI;
+    sub \\sinSha \\sinMatraI  by \\sinShI;
+    sub \\sinSsa \\sinMatraI  by \\sinSsI;
+    sub \\sinSa \\sinMatraI  by \\sinSI;
+    sub \\sinHa \\sinMatraI  by \\sinHI;
+    sub \\sinLla \\sinMatraI  by \\sinLlI;
+    sub \\sinFa \\sinMatraI  by \\sinFI;
+    sub \\sinKSsa \\sinMatraI  by \\sinKSsI;
+    sub \\sinKVa \\sinMatraI  by \\sinKVI;
+    sub \\sinTVa \\sinMatraI  by \\sinTVI;
+    sub \\sinTTha \\sinMatraI  by \\sinTThI;
+    sub \\sinNDa \\sinMatraI  by \\sinNDI;
+    sub \\sinNDha \\sinMatraI  by \\sinNDhI;
+    sub \\sinNVa \\sinMatraI  by \\sinNVI;
+    sub \\sinNTha \\sinMatraI  by \\sinNThI;
+    sub \\sinDVa \\sinMatraI  by \\sinDVI;
+    sub \\sinDDha \\sinMatraI  by \\sinDDhI;
+    sub \\sinTtTtha \\sinMatraI  by \\sinTtTthI;
+    sub \\sinKRa \\sinMatraI  by \\sinKRI;
+    sub \\sinKhRa \\sinMatraI  by \\sinKhRI;
+    sub \\sinGRa \\sinMatraI  by \\sinGRI;
+    sub \\sinGhRa \\sinMatraI  by \\sinGhRI;
+    sub \\sinCRa \\sinMatraI  by \\sinCRI;
+    sub \\sinJRa \\sinMatraI  by \\sinJRI;
+    sub \\sinJhRa \\sinMatraI  by \\sinJhRI;
+    sub \\sinNyRa \\sinMatraI  by \\sinNyRI;
+    sub \\sinJnyRa \\sinMatraI  by \\sinJnyRI;
+    sub \\sinTtRa \\sinMatraI  by \\sinTtRI;
+    sub \\sinDdRa \\sinMatraI  by \\sinDdRI;
+    sub \\sinTRa \\sinMatraI  by \\sinTRI;
+    sub \\sinDRa \\sinMatraI  by \\sinDRI;
+    sub \\sinDhRa \\sinMatraI  by \\sinDhRI;
+    sub \\sinPRa \\sinMatraI  by \\sinPRI;
+    sub \\sinBRa \\sinMatraI  by \\sinBRI;
+    sub \\sinBhRa \\sinMatraI  by \\sinBhRI;
+    sub \\sinMRa \\sinMatraI  by \\sinMRI;
+    sub \\sinVRa \\sinMatraI  by \\sinVRI;
+    sub \\sinShRa \\sinMatraI  by \\sinShRI;
+    sub \\sinSRa \\sinMatraI  by \\sinSRI;
+    sub \\sinHRa \\sinMatraI  by \\sinHRI;
+    sub \\sinFRa \\sinMatraI  by \\sinFRI;
+    sub \\sinYansaya \\sinMatraI  by \\sinYansaya.MatraI;
+} abvsAboveBaseSubstitutionsinSinhalalookup4;
+
+lookup abvsAboveBaseSubstitutionsinSinhalalookup5 {
+  lookupflag 0;
+    sub \\sinKa \\sinMatraIi  by \\sinKIi;
+    sub \\sinKha \\sinMatraIi  by \\sinKhIi;
+    sub \\sinGa \\sinMatraIi  by \\sinGIi;
+    sub \\sinGha \\sinMatraIi  by \\sinGhIi;
+    sub \\sinNga \\sinMatraIi  by \\sinNgIi;
+    sub \\sinNnga \\sinMatraIi  by \\sinNngIi;
+    sub \\sinCa \\sinMatraIi  by \\sinCIi;
+    sub \\sinCha \\sinMatraIi  by \\sinChIi;
+    sub \\sinJa \\sinMatraIi  by \\sinJIi;
+    sub \\sinJha \\sinMatraIi  by \\sinJhIi;
+    sub \\sinNya \\sinMatraIi  by \\sinNyIi;
+    sub \\sinJnya \\sinMatraIi  by \\sinJnyIi;
+    sub \\sinNyja \\sinMatraIi  by \\sinNyjIi;
+    sub \\sinTta \\sinMatraIi  by \\sinTtIi;
+    sub \\sinTtha \\sinMatraIi  by \\sinTthIi;
+    sub \\sinDda \\sinMatraIi  by \\sinDdIi;
+    sub \\sinDdha \\sinMatraIi  by \\sinDdhIi;
+    sub \\sinNna \\sinMatraIi  by \\sinNnIi;
+    sub \\sinNndda \\sinMatraIi  by \\sinNnddIi;
+    sub \\sinTa \\sinMatraIi  by \\sinTIi;
+    sub \\sinTha \\sinMatraIi  by \\sinThIi;
+    sub \\sinDa \\sinMatraIi  by \\sinDIi;
+    sub \\sinDha \\sinMatraIi  by \\sinDhIi;
+    sub \\sinNa \\sinMatraIi  by \\sinNIi;
+    sub \\sinNda \\sinMatraIi  by \\sinNdIi;
+    sub \\sinPa \\sinMatraIi  by \\sinPIi;
+    sub \\sinPha \\sinMatraIi  by \\sinPhIi;
+    sub \\sinBa \\sinMatraIi  by \\sinBIi;
+    sub \\sinBha \\sinMatraIi  by \\sinBhIi;
+    sub \\sinMa \\sinMatraIi  by \\sinMIi;
+    sub \\sinMba \\sinMatraIi  by \\sinMbIi;
+    sub \\sinYa \\sinMatraIi  by \\sinYIi;
+    sub \\sinRa \\sinMatraIi  by \\sinRIi;
+    sub \\sinLa \\sinMatraIi  by \\sinLIi;
+    sub \\sinVa \\sinMatraIi  by \\sinVIi;
+    sub \\sinSha \\sinMatraIi  by \\sinShIi;
+    sub \\sinSsa \\sinMatraIi  by \\sinSsIi;
+    sub \\sinSa \\sinMatraIi  by \\sinSIi;
+    sub \\sinHa \\sinMatraIi  by \\sinHIi;
+    sub \\sinLla \\sinMatraIi  by \\sinLlIi;
+    sub \\sinFa \\sinMatraIi  by \\sinFIi;
+    sub \\sinKSsa \\sinMatraIi  by \\sinKSsIi;
+    sub \\sinKVa \\sinMatraIi  by \\sinKVIi;
+    sub \\sinTVa \\sinMatraIi  by \\sinTVIi;
+    sub \\sinTTha \\sinMatraIi  by \\sinTThIi;
+    sub \\sinNDa \\sinMatraIi  by \\sinNDIi;
+    sub \\sinNDha \\sinMatraIi  by \\sinNDhIi;
+    sub \\sinNVa \\sinMatraIi  by \\sinNVIi;
+    sub \\sinNTha \\sinMatraIi  by \\sinNThIi;
+    sub \\sinDVa \\sinMatraIi  by \\sinDVIi;
+    sub \\sinDDha \\sinMatraIi  by \\sinDDhIi;
+    sub \\sinTtTtha \\sinMatraIi  by \\sinTtTthIi;
+    sub \\sinKRa \\sinMatraIi  by \\sinKRIi;
+    sub \\sinKhRa \\sinMatraIi  by \\sinKhRIi;
+    sub \\sinGRa \\sinMatraIi  by \\sinGRIi;
+    sub \\sinGhRa \\sinMatraIi  by \\sinGhRIi;
+    sub \\sinCRa \\sinMatraIi  by \\sinCRIi;
+    sub \\sinJRa \\sinMatraIi  by \\sinJRIi;
+    sub \\sinJhRa \\sinMatraIi  by \\sinJhRIi;
+    sub \\sinNyRa \\sinMatraIi  by \\sinNyRIi;
+    sub \\sinJnyRa \\sinMatraIi  by \\sinJnyRIi;
+    sub \\sinTtRa \\sinMatraIi  by \\sinTtRIi;
+    sub \\sinDdRa \\sinMatraIi  by \\sinDdRIi;
+    sub \\sinTRa \\sinMatraIi  by \\sinTRIi;
+    sub \\sinDRa \\sinMatraIi  by \\sinDRIi;
+    sub \\sinDhRa \\sinMatraIi  by \\sinDhRIi;
+    sub \\sinPRa \\sinMatraIi  by \\sinPRIi;
+    sub \\sinBRa \\sinMatraIi  by \\sinBRIi;
+    sub \\sinBhRa \\sinMatraIi  by \\sinBhRIi;
+    sub \\sinMRa \\sinMatraIi  by \\sinMRIi;
+    sub \\sinVRa \\sinMatraIi  by \\sinVRIi;
+    sub \\sinShRa \\sinMatraIi  by \\sinShRIi;
+    sub \\sinSRa \\sinMatraIi  by \\sinSRIi;
+    sub \\sinHRa \\sinMatraIi  by \\sinHRIi;
+    sub \\sinFRa \\sinMatraIi  by \\sinFRIi;
+    sub \\sinYansaya \\sinMatraIi  by \\sinYansaya.MatraIi;
+} abvsAboveBaseSubstitutionsinSinhalalookup5;
+
+lookup abvsAboveBaseSubstitutionsinSinhalalookup6 {
+  lookupflag 0;
+    sub \\sinKa \\sinReph  by \\sinKa.reph;
+    sub \\sinKha \\sinReph  by \\sinKha.reph;
+    sub \\sinGa \\sinReph  by \\sinGa.reph;
+    sub \\sinGha \\sinReph  by \\sinGha.reph;
+    sub \\sinCa \\sinReph  by \\sinCa.reph;
+    sub \\sinJa \\sinReph  by \\sinJa.reph;
+    sub \\sinJha \\sinReph  by \\sinJha.reph;
+    sub \\sinNya \\sinReph  by \\sinNya.reph;
+    sub \\sinJnya \\sinReph  by \\sinJnya.reph;
+    sub \\sinTta \\sinReph  by \\sinTta.reph;
+    sub \\sinDda \\sinReph  by \\sinDda.reph;
+    sub \\sinNna \\sinReph  by \\sinNna.reph;
+    sub \\sinTa \\sinReph  by \\sinTa.reph;
+    sub \\sinTha \\sinReph  by \\sinTha.reph;
+    sub \\sinDa \\sinReph  by \\sinDa.reph;
+    sub \\sinDha \\sinReph  by \\sinDha.reph;
+    sub \\sinNa \\sinReph  by \\sinNa.reph;
+    sub \\sinPa \\sinReph  by \\sinPa.reph;
+    sub \\sinBa \\sinReph  by \\sinBa.reph;
+    sub \\sinBha \\sinReph  by \\sinBha.reph;
+    sub \\sinMa \\sinReph  by \\sinMa.reph;
+    sub \\sinYa \\sinReph  by \\sinYa.reph;
+    sub \\sinVa \\sinReph  by \\sinVa.reph;
+    sub \\sinSha \\sinReph  by \\sinSha.reph;
+    sub \\sinSsa \\sinReph  by \\sinSsa.reph;
+    sub \\sinSa \\sinReph  by \\sinSa.reph;
+    sub \\sinHa \\sinReph  by \\sinHa.reph;
+    sub \\sinYansaya \\sinReph  by \\sinYansaya.reph;
+    sub \\sinYansaya \\sinMatraAa \\sinReph  by \\sinYansaya_Reph_MatraAa;
+    sub \\sinYansaya \\sinMatraU \\sinReph  by \\sinYansaya_Reph_MatraU;
+    sub \\sinYansaya \\sinMatraUu \\sinReph  by \\sinYansaya_Reph_MatraUu;
+} abvsAboveBaseSubstitutionsinSinhalalookup6;
+
+lookup akhnAkhandinSinhalalookup7 {
+  lookupflag 0;
+    sub \\sinKSsa \\sinReph  by \\sinKSsa.reph;
+    sub \\sinKa \\sinReph \\sinVirama \\uni200D \\sinSsa  by \\sinKSsa.reph;
+    sub \\sinKVa \\sinReph  by \\sinKVa.reph;
+    sub \\sinKa \\sinReph \\sinVirama \\uni200D \\sinVa  by \\sinKVa.reph;
+    sub \\sinTVa \\sinReph  by \\sinTVa.reph;
+    sub \\sinTa \\sinReph \\sinVirama \\uni200D \\sinVa  by \\sinTVa.reph;
+    sub \\sinTTha \\sinReph  by \\sinTTha.reph;
+    sub \\sinTa \\sinReph \\sinVirama \\uni200D \\sinTha  by \\sinTTha.reph;
+    sub \\sinNDa \\sinReph  by \\sinNDa.reph;
+    sub \\sinNa \\sinReph \\sinVirama \\uni200D \\sinDa  by \\sinNDa.reph;
+    sub \\sinNDha \\sinReph  by \\sinNDha.reph;
+    sub \\sinNa \\sinReph \\sinVirama \\uni200D \\sinDha  by \\sinNDha.reph;
+    sub \\sinNVa \\sinReph  by \\sinNVa.reph;
+    sub \\sinNa \\sinReph \\sinVirama \\uni200D \\sinVa  by \\sinNVa.reph;
+    sub \\sinNTha \\sinReph  by \\sinNTha.reph;
+    sub \\sinNa \\sinReph \\sinVirama \\uni200D \\sinTha  by \\sinNTha.reph;
+    sub \\sinDVa \\sinReph  by \\sinDVa.reph;
+    sub \\sinDa \\sinReph \\sinVirama \\uni200D \\sinVa  by \\sinDVa.reph;
+    sub \\sinDDha \\sinReph  by \\sinDDha.reph;
+    sub \\sinDa \\sinReph \\sinVirama \\uni200D \\sinDha  by \\sinDDha.reph;
+    sub \\sinTtTtha \\sinReph  by \\sinTtTtha.reph;
+    sub \\sinTta \\sinReph \\sinVirama \\uni200D \\sinTtha  by \\sinTtTtha.reph;
+} akhnAkhandinSinhalalookup7;
+
+lookup blwsBelowBaseSubstitutionsinSinhalalookup8 {
+  lookupflag 0;
+    sub \\sinKa \\sinMatraU  by \\sinKU;
+    sub \\sinKha \\sinMatraU  by \\sinKhU;
+    sub \\sinGa \\sinMatraU  by \\sinGU;
+    sub \\sinGha \\sinMatraU  by \\sinGhU;
+    sub \\sinNnga \\sinMatraU  by \\sinNngU;
+    sub \\sinCa \\sinMatraU  by \\sinCU;
+    sub \\sinCha \\sinMatraU  by \\sinChU;
+    sub \\sinJa \\sinMatraU  by \\sinJU;
+    sub \\sinJha \\sinMatraU  by \\sinJhU;
+    sub \\sinNya \\sinMatraU  by \\sinNyU;
+    sub \\sinJnya \\sinMatraU  by \\sinJnyU;
+    sub \\sinNyja \\sinMatraU  by \\sinNyjU;
+    sub \\sinTta \\sinMatraU  by \\sinTtU;
+    sub \\sinTtha \\sinMatraU  by \\sinTthU;
+    sub \\sinDda \\sinMatraU  by \\sinDdU;
+    sub \\sinDdha \\sinMatraU  by \\sinDdhU;
+    sub \\sinNna \\sinMatraU  by \\sinNnU;
+    sub \\sinNndda \\sinMatraU  by \\sinNnddU;
+    sub \\sinTa \\sinMatraU  by \\sinTU;
+    sub \\sinTha \\sinMatraU  by \\sinThU;
+    sub \\sinDa \\sinMatraU  by \\sinDU;
+    sub \\sinDha \\sinMatraU  by \\sinDhU;
+    sub \\sinNa \\sinMatraU  by \\sinNU;
+    sub \\sinNda \\sinMatraU  by \\sinNdU;
+    sub \\sinPa \\sinMatraU  by \\sinPU;
+    sub \\sinPha \\sinMatraU  by \\sinPhU;
+    sub \\sinBa \\sinMatraU  by \\sinBU;
+    sub \\sinBha \\sinMatraU  by \\sinBhU;
+    sub \\sinMa \\sinMatraU  by \\sinMU;
+    sub \\sinMba \\sinMatraU  by \\sinMbU;
+    sub \\sinYa \\sinMatraU  by \\sinYU;
+    sub \\sinRa \\sinMatraU  by \\sinRU;
+    sub \\sinLa \\sinMatraU  by \\sinLU;
+    sub \\sinVa \\sinMatraU  by \\sinVU;
+    sub \\sinSha \\sinMatraU  by \\sinShU;
+    sub \\sinSsa \\sinMatraU  by \\sinSsU;
+    sub \\sinSa \\sinMatraU  by \\sinSU;
+    sub \\sinHa \\sinMatraU  by \\sinHU;
+    sub \\sinLla \\sinMatraU  by \\sinLlU;
+    sub \\sinFa \\sinMatraU  by \\sinFU;
+    sub \\sinKSsa \\sinMatraU  by \\sinKSsU;
+    sub \\sinKVa \\sinMatraU  by \\sinKVU;
+    sub \\sinTVa \\sinMatraU  by \\sinTVU;
+    sub \\sinTTha \\sinMatraU  by \\sinTThU;
+    sub \\sinNDa \\sinMatraU  by \\sinNDU;
+    sub \\sinNDha \\sinMatraU  by \\sinNDhU;
+    sub \\sinNVa \\sinMatraU  by \\sinNVU;
+    sub \\sinNTha \\sinMatraU  by \\sinNThU;
+    sub \\sinDVa \\sinMatraU  by \\sinDVU;
+    sub \\sinDDha \\sinMatraU  by \\sinDDhU;
+    sub \\sinTtTtha \\sinMatraU  by \\sinTtTthU;
+    sub \\sinYansaya \\sinMatraU  by \\sinYansa_MatraU;
+} blwsBelowBaseSubstitutionsinSinhalalookup8;
+
+lookup blwsBelowBaseSubstitutionsinSinhalalookup9 {
+  lookupflag 0;
+    sub \\sinKa \\sinMatraUu  by \\sinKUu;
+    sub \\sinKha \\sinMatraUu  by \\sinKhUu;
+    sub \\sinGa \\sinMatraUu  by \\sinGUu;
+    sub \\sinGha \\sinMatraUu  by \\sinGhUu;
+    sub \\sinNnga \\sinMatraUu  by \\sinNngUu;
+    sub \\sinCa \\sinMatraUu  by \\sinCUu;
+    sub \\sinCha \\sinMatraUu  by \\sinChUu;
+    sub \\sinJa \\sinMatraUu  by \\sinJUu;
+    sub \\sinJha \\sinMatraUu  by \\sinJhUu;
+    sub \\sinNya \\sinMatraUu  by \\sinNyUu;
+    sub \\sinJnya \\sinMatraUu  by \\sinJnyUu;
+    sub \\sinNyja \\sinMatraUu  by \\sinNyjUu;
+    sub \\sinTta \\sinMatraUu  by \\sinTtUu;
+    sub \\sinTtha \\sinMatraUu  by \\sinTthUu;
+    sub \\sinDda \\sinMatraUu  by \\sinDdUu;
+    sub \\sinDdha \\sinMatraUu  by \\sinDdhUu;
+    sub \\sinNna \\sinMatraUu  by \\sinNnUu;
+    sub \\sinNndda \\sinMatraUu  by \\sinNnddUu;
+    sub \\sinTa \\sinMatraUu  by \\sinTUu;
+    sub \\sinTha \\sinMatraUu  by \\sinThUu;
+    sub \\sinDa \\sinMatraUu  by \\sinDUu;
+    sub \\sinDha \\sinMatraUu  by \\sinDhUu;
+    sub \\sinNa \\sinMatraUu  by \\sinNUu;
+    sub \\sinNda \\sinMatraUu  by \\sinNdUu;
+    sub \\sinPa \\sinMatraUu  by \\sinPUu;
+    sub \\sinPha \\sinMatraUu  by \\sinPhUu;
+    sub \\sinBa \\sinMatraUu  by \\sinBUu;
+    sub \\sinBha \\sinMatraUu  by \\sinBhUu;
+    sub \\sinMa \\sinMatraUu  by \\sinMUu;
+    sub \\sinMba \\sinMatraUu  by \\sinMbUu;
+    sub \\sinYa \\sinMatraUu  by \\sinYUu;
+    sub \\sinRa \\sinMatraUu  by \\sinRUu;
+    sub \\sinLa \\sinMatraUu  by \\sinLUu;
+    sub \\sinVa \\sinMatraUu  by \\sinVUu;
+    sub \\sinSha \\sinMatraUu  by \\sinShUu;
+    sub \\sinSsa \\sinMatraUu  by \\sinSsUu;
+    sub \\sinSa \\sinMatraUu  by \\sinSUu;
+    sub \\sinHa \\sinMatraUu  by \\sinHUu;
+    sub \\sinLla \\sinMatraUu  by \\sinLlUu;
+    sub \\sinFa \\sinMatraUu  by \\sinFUu;
+    sub \\sinKSsa \\sinMatraUu  by \\sinKSsUu;
+    sub \\sinKVa \\sinMatraUu  by \\sinKVUu;
+    sub \\sinTVa \\sinMatraUu  by \\sinTVUu;
+    sub \\sinTTha \\sinMatraUu  by \\sinTThUu;
+    sub \\sinNDa \\sinMatraUu  by \\sinNDUu;
+    sub \\sinNDha \\sinMatraUu  by \\sinNDhUu;
+    sub \\sinNVa \\sinMatraUu  by \\sinNVUu;
+    sub \\sinNTha \\sinMatraUu  by \\sinNThUu;
+    sub \\sinDVa \\sinMatraUu  by \\sinDVUu;
+    sub \\sinDDha \\sinMatraUu  by \\sinDDhUu;
+    sub \\sinTtTtha \\sinMatraUu  by \\sinTtTthUu;
+    sub \\sinYansaya \\sinMatraUu  by \\sinYansa_MatraUu;
+} blwsBelowBaseSubstitutionsinSinhalalookup9;
+
+lookup SingleSubstitutionlookup11 {
+  lookupflag 0;
+    sub \\sinMatraU by \\sinMatraU.sub ;
+    sub \\sinMatraUu by \\sinMatraUu.sub ;
+} SingleSubstitutionlookup11;
+
+lookup blwsBelowBaseSubstitutionsinSinhalalookup10 {
+  lookupflag 0;
+    @cc10_match_1 = [\\sinMatraUu ];
+    @cc10_match_2 = [\\sinMatraU ];
+    @cc10_back_1 = [\\sinKRa \\sinKhRa \\sinGRa \\sinGhRa \\sinCRa \\sinJRa \\sinJhRa \\sinNyRa \\sinJnyRa 
+	\\sinNyjRa \\sinTtRa \\sinDdRa \\sinTRa \\sinDRa \\sinDhRa \\sinPRa \\sinBRa 
+	\\sinBhRa \\sinMRa \\sinVRa \\sinShRa \\sinSsRa \\sinSRa \\sinHRa \\sinFRa 
+	\\sinNDRa ];
+    sub @cc10_back_1 @cc10_match_1'lookup SingleSubstitutionlookup11  ;
+    sub @cc10_back_1 @cc10_match_2'lookup SingleSubstitutionlookup11  ;
+} blwsBelowBaseSubstitutionsinSinhalalookup10;
+
+lookup vatuVattuVariantsinSinhalalookup12 {
+  lookupflag 0;
+    sub \\sinVirama \\uni200D \\sinRa  by \\sinRakar;
+    sub \\sinVirama \\uni200D \\sinYa  by \\sinYansaya;
+} vatuVattuVariantsinSinhalalookup12;
+
+lookup pstsPostBaseSubstitutionsinSinhalalookup13 {
+  lookupflag 0;
+    sub \\sinRa \\sinMatraAe  by \\sinRAe;
+    sub \\sinRa \\sinMatraAae  by \\sinRAae;
+} pstsPostBaseSubstitutionsinSinhalalookup13;
+
+lookup vatuVattuVariantsinSinhalalookup14 {
+  lookupflag 0;
+    sub \\sinKa \\sinRakar  by \\sinKRa;
+    sub \\sinKha \\sinRakar  by \\sinKhRa;
+    sub \\sinGa \\sinRakar  by \\sinGRa;
+    sub \\sinGha \\sinRakar  by \\sinGhRa;
+    sub \\sinCa \\sinRakar  by \\sinCRa;
+    sub \\sinJa \\sinRakar  by \\sinJRa;
+    sub \\sinJha \\sinRakar  by \\sinJhRa;
+    sub \\sinNya \\sinRakar  by \\sinNyRa;
+    sub \\sinJnya \\sinRakar  by \\sinJnyRa;
+    sub \\sinNyja \\sinRakar  by \\sinNyjRa;
+    sub \\sinTta \\sinRakar  by \\sinTtRa;
+    sub \\sinDda \\sinRakar  by \\sinDdRa;
+    sub \\sinTa \\sinRakar  by \\sinTRa;
+    sub \\sinDa \\sinRakar  by \\sinDRa;
+    sub \\sinDha \\sinRakar  by \\sinDhRa;
+    sub \\sinPa \\sinRakar  by \\sinPRa;
+    sub \\sinBa \\sinRakar  by \\sinBRa;
+    sub \\sinBha \\sinRakar  by \\sinBhRa;
+    sub \\sinMa \\sinRakar  by \\sinMRa;
+    sub \\sinVa \\sinRakar  by \\sinVRa;
+    sub \\sinSha \\sinRakar  by \\sinShRa;
+    sub \\sinSsa \\sinRakar  by \\sinSsRa;
+    sub \\sinSa \\sinRakar  by \\sinSRa;
+    sub \\sinHa \\sinRakar  by \\sinHRa;
+    sub \\sinFa \\sinRakar  by \\sinFRa;
+    sub \\sinNDa \\sinRakar  by \\sinNDRa;
+} vatuVattuVariantsinSinhalalookup14;
+
+lookup pstfPostBaseFormsinSinhalalookup15 {
+  lookupflag 0;
+    sub \\sinMatraEe by \\sinVirama ;
+    sub \\sinMatraO by \\sinMatraAa ;
+    sub \\sinMatraOo by \\sinMatraAa.virama ;
+    sub \\sinMatraAu by \\sinMatraLs ;
+} pstfPostBaseFormsinSinhalalookup15;
+
+lookup akhnAkhandinSinhalalookup16 {
+  lookupflag 0;
+    sub \\uni200D \\sinVirama  by \\sinTouch;
+} akhnAkhandinSinhalalookup16;
+
+lookup supsSuperscriptinSinhalalookup17 {
+  lookupflag 0;
+    sub \\one by \\uni00B9 ;
+    sub \\two by \\uni00B2 ;
+    sub \\three by \\uni00B3 ;
+} supsSuperscriptinSinhalalookup17;
+
+lookup fracDiagonalFractionsinSinhalalookup18 {
+  lookupflag 0;
+    sub \\one \\slash \\four  by \\onequarter;
+    sub \\one \\slash \\two  by \\onehalf;
+    sub \\three \\slash \\four  by \\threequarters;
+} fracDiagonalFractionsinSinhalalookup18;
+
+# GPOS 
+lookup distDistanceinSinhalalookup0 {
+  lookupflag 0;
+    pos \\sinTouch <0 0 -110 0>;
+} distDistanceinSinhalalookup0;
+
+";
+name = Prefix;
+}
+);
+features = (
+{
+code = " script sinh;
+     language dflt ;
+      lookup akhnAkhandinSinhalalookup1;
+      lookup akhnAkhandinSinhalalookup7;
+      lookup akhnAkhandinSinhalalookup16;";
+tag = akhn;
+},
+{
+code = " script sinh;
+     language dflt ;
+      lookup rphfRephForminSinhalalookup2;";
+tag = rphf;
+},
+{
+code = " script sinh;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionsinSinhalalookup3;
+      lookup abvsAboveBaseSubstitutionsinSinhalalookup4;
+      lookup abvsAboveBaseSubstitutionsinSinhalalookup5;
+      lookup abvsAboveBaseSubstitutionsinSinhalalookup6;";
+tag = abvs;
+},
+{
+code = " script sinh;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionsinSinhalalookup8;
+      lookup blwsBelowBaseSubstitutionsinSinhalalookup9;
+      lookup blwsBelowBaseSubstitutionsinSinhalalookup10;";
+tag = blws;
+},
+{
+code = " script sinh;
+     language dflt ;
+      lookup vatuVattuVariantsinSinhalalookup12;
+      lookup vatuVattuVariantsinSinhalalookup14;";
+tag = vatu;
+},
+{
+code = " script sinh;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionsinSinhalalookup13;";
+tag = psts;
+},
+{
+code = " script sinh;
+     language dflt ;
+      lookup pstfPostBaseFormsinSinhalalookup15;";
+tag = pstf;
+},
+{
+code = " script DFLT;
+     language dflt ;
+      lookup distDistanceinSinhalalookup0;
+
+ script sinh;
+     language dflt ;
+      lookup distDistanceinSinhalalookup0;";
+tag = dist;
+}
+);
+fontMaster = (
+{
+guides = (
+{
+pos = (500,388.75);
+},
+{
+pos = (500,640);
+},
+{
+pos = (500,534.75);
+},
+{
+pos = (500,737.003);
+}
+);
+id = m001;
+metricValues = (
+{
+pos = 800;
+},
+{
+over = 10;
+pos = 769;
+},
+{
+pos = -200;
+},
+{
+},
+{
+pos = 684;
+},
+{
+over = 11;
+pos = 825;
+},
+{
+pos = -242;
+}
+);
+name = Regular;
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = postscriptWeightName;
+value = Regular;
+}
+);
+instanceInterpolations = {
+m001 = 1;
+};
+name = Regular;
+properties = (
+{
+key = postscriptFontName;
+value = "Awaragira-Regular";
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = Awaragira;
+}
+);
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = Awaragira;
+}
+);
+}
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+name = "zone 1";
+},
+{
+name = "zone 2";
+},
+{
+name = "zone 3";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2021 The Awaragira Project Authors (https://github.com/mooniak/awaragira-font)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Rajitha Manaperi";
+}
+);
+},
+{
+key = designerURL;
+value = "http://mooniak.com";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = Mooniak;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "http://mooniak.com";
+},
+{
+key = sampleTexts;
+values = (
+{
+language = dflt;
+value = "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.";
+}
+);
+},
+{
+key = vendorID;
+value = MNIK;
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 1000;
+userData = {
+UFOFormat = 3;
+};
+versionMajor = 0;
+versionMinor = 10;
+}

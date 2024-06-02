@@ -1,0 +1,62 @@
+{
+glyphname = sinSh;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (718,0);
+ref = sinVirama;
+},
+{
+ref = sinSha;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 68;
+},
+{
+position = 225;
+width = 60;
+},
+{
+position = 450;
+width = 287;
+},
+{
+position = 467;
+width = 68;
+}
+);
+vhints = (
+{
+position = 50;
+width = 68;
+},
+{
+position = 275;
+width = 68;
+},
+{
+position = 414;
+width = 68;
+},
+{
+position = 516;
+width = 64;
+},
+{
+position = 594;
+width = 67;
+}
+);
+};
+};
+width = 766;
+}
+);
+}

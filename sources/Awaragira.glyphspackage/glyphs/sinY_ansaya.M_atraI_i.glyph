@@ -1,0 +1,18 @@
+{
+glyphname = sinYansaya.MatraIi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (595,0);
+ref = sinMatraIi;
+},
+{
+ref = sinYansaya;
+}
+);
+width = 607;
+}
+);
+}

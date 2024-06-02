@@ -1,0 +1,14 @@
+{
+glyphname = sinNyR;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = sinNy;
+}
+);
+width = 1240;
+}
+);
+}

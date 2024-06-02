@@ -1,0 +1,18 @@
+{
+glyphname = sinKSsIi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1125,0);
+ref = sinMatraIi;
+},
+{
+ref = sinKSsa;
+}
+);
+width = 1144;
+}
+);
+}

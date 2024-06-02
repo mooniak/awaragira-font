@@ -1,0 +1,51 @@
+{
+glyphname = sinMatraI;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-462,628,l),
+(-479,701,o),
+(-392,734,o),
+(-289,734,cs),
+(-185,734,o),
+(-99,701,o),
+(-116,628,c),
+(-50,628,l),
+(-32,744,o),
+(-154,800,o),
+(-289,800,cs),
+(-424,800,o),
+(-546,744,o),
+(-528,628,c)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 734;
+width = 66;
+}
+);
+vhints = (
+{
+position = -528;
+width = 66;
+},
+{
+position = -116;
+width = 66;
+}
+);
+};
+};
+width = 0;
+}
+);
+unicode = 3538;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = sinVirama;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-57,450,l),
+(-57,737,l),
+(-124,737,l),
+(-124,450,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 450;
+width = 287;
+}
+);
+vhints = (
+{
+position = -124;
+width = 67;
+}
+);
+};
+};
+width = 5;
+}
+);
+unicode = 3530;
+}

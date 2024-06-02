@@ -1,0 +1,58 @@
+{
+glyphname = sinKSsI;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1119,6);
+ref = sinMatraI;
+},
+{
+ref = sinKSsa;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 66;
+},
+{
+position = 313;
+width = 53;
+},
+{
+position = 469;
+width = 66;
+}
+);
+vhints = (
+{
+position = 1407;
+width = 63;
+},
+{
+position = 1441;
+width = 55;
+},
+{
+position = 1593;
+width = 66;
+},
+{
+position = 1794;
+width = 68;
+},
+{
+position = 2025;
+width = 68;
+}
+);
+};
+};
+width = 1144;
+}
+);
+}

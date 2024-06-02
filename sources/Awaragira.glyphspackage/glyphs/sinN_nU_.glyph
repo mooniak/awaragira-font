@@ -1,0 +1,99 @@
+{
+glyphname = sinNnU;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(835,-200,l),
+(835,-136,l),
+(269,-136,ls),
+(230,-136,o),
+(221,-112,o),
+(221,-86,c),
+(153,-86,l),
+(153,-144,o),
+(185,-200,o),
+(266,-200,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(867,-200,l),
+(867,57,l),
+(816,39,l),
+(803,8,l),
+(803,-200,l)
+);
+},
+{
+ref = sinNna;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -200;
+width = 64;
+},
+{
+position = 0;
+width = 64;
+},
+{
+position = 142;
+width = 70;
+},
+{
+position = 304;
+width = 57;
+},
+{
+position = 438;
+width = 63;
+},
+{
+position = 492;
+width = 64;
+}
+);
+vhints = (
+{
+position = 40;
+width = 64;
+},
+{
+position = 319;
+width = 59;
+},
+{
+position = 496;
+width = 64;
+},
+{
+position = 517;
+width = 78;
+},
+{
+position = 660;
+width = 64;
+},
+{
+position = 803;
+width = 64;
+},
+{
+position = 892;
+width = 64;
+}
+);
+};
+};
+width = 996;
+}
+);
+}

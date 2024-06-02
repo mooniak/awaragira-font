@@ -1,0 +1,64 @@
+{
+glyphname = sinMatraAe;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(282,0,o),
+(300,107,o),
+(300,172,c),
+(232,172,l),
+(232,134,o),
+(218,68,o),
+(150,68,cs),
+(102,68,o),
+(73,94,o),
+(73,143,cs),
+(73,227,o),
+(139,255,o),
+(261,435,c),
+(261,500,l),
+(34,500,l),
+(34,435,l),
+(184,435,l),
+(71,277,o),
+(5,237,o),
+(5,143,cs),
+(5,49,o),
+(60,0,o),
+(150,0,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 68;
+},
+{
+position = 435;
+width = 65;
+}
+);
+vhints = (
+{
+position = 5;
+width = 68;
+},
+{
+position = 232;
+width = 68;
+}
+);
+};
+};
+width = 340;
+}
+);
+unicode = 3536;
+}

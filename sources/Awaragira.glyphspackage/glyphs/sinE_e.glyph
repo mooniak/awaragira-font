@@ -1,0 +1,69 @@
+{
+glyphname = sinEe;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(622,450,l),
+(622,737,l),
+(562,737,l),
+(562,657,l),
+(584,450,l)
+);
+},
+{
+ref = sinE;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 68;
+},
+{
+position = 329;
+width = 39;
+},
+{
+position = 329;
+width = 60;
+},
+{
+position = 450;
+width = 287;
+},
+{
+position = 471;
+width = 60;
+}
+);
+vhints = (
+{
+position = 74;
+width = 68;
+},
+{
+position = 92;
+width = 62;
+},
+{
+position = 555;
+width = 67;
+},
+{
+position = 576;
+width = 68;
+}
+);
+};
+};
+width = 674;
+}
+);
+unicode = 3474;
+}

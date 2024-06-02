@@ -1,0 +1,14 @@
+{
+glyphname = sinDRIi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = sinDIi;
+}
+);
+width = 526;
+}
+);
+}

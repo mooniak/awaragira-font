@@ -1,0 +1,72 @@
+{
+glyphname = sinDdh;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(640,450,l),
+(640,737,l),
+(580,737,l),
+(580,657,l),
+(602,450,l)
+);
+},
+{
+ref = sinDdha;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 68;
+},
+{
+position = 329;
+width = 39;
+},
+{
+position = 329;
+width = 60;
+},
+{
+position = 471;
+width = 60;
+}
+);
+vhints = (
+{
+position = 64;
+width = 66;
+},
+{
+position = 104;
+width = 62;
+},
+{
+position = 305;
+width = 74;
+},
+{
+position = 580;
+width = 60;
+},
+{
+position = 588;
+width = 68;
+},
+{
+position = 602;
+width = 38;
+}
+);
+};
+};
+width = 696;
+}
+);
+}

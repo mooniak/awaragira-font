@@ -1,0 +1,107 @@
+{
+glyphname = sinAu;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (658,0);
+ref = sinMatraLs;
+userData = {
+UFO.identifier = 56162C90;
+};
+},
+{
+alignment = -1;
+ref = sinO;
+userData = {
+UFO.identifier = 7C4D41F6;
+};
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 65;
+},
+{
+position = 0;
+width = 68;
+},
+{
+position = 232;
+width = 64;
+},
+{
+position = 238;
+width = 64;
+},
+{
+position = 471;
+width = 64;
+},
+{
+position = 472;
+width = 63;
+},
+{
+position = 669;
+width = 68;
+}
+);
+vhints = (
+{
+position = 25;
+width = 68;
+},
+{
+position = 66;
+width = 68;
+},
+{
+position = 194;
+width = 63;
+},
+{
+position = 211;
+width = 65;
+},
+{
+position = 292;
+width = 74;
+},
+{
+position = 381;
+width = 64;
+},
+{
+position = 575;
+width = 68;
+},
+{
+position = 684;
+width = 64;
+},
+{
+position = 740;
+width = 64;
+},
+{
+position = 829;
+width = 58;
+},
+{
+position = 1006;
+width = 64;
+}
+);
+};
+};
+width = 1089;
+}
+);
+unicode = 3478;
+}

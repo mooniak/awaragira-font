@@ -1,0 +1,86 @@
+{
+glyphname = sinNyRI;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1242,0);
+ref = sinMatraI;
+},
+{
+ref = sinNyRa;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -200;
+width = 66;
+},
+{
+position = 0;
+width = 48;
+},
+{
+position = 48;
+width = 18;
+},
+{
+position = 313;
+width = 53;
+},
+{
+position = 323;
+width = 66;
+},
+{
+position = 471;
+width = 64;
+}
+);
+vhints = (
+{
+position = 40;
+width = 64;
+},
+{
+position = 251;
+width = 63;
+},
+{
+position = 285;
+width = 55;
+},
+{
+position = 437;
+width = 66;
+},
+{
+position = 638;
+width = 68;
+},
+{
+position = 740;
+width = 68;
+},
+{
+position = 793;
+width = 64;
+},
+{
+position = 902;
+width = 66;
+},
+{
+position = 1134;
+width = 66;
+}
+);
+};
+};
+width = 1240;
+}
+);
+}

@@ -1,0 +1,74 @@
+{
+glyphname = sinTRa;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (87,0);
+ref = sinRakar;
+userData = {
+UFO.identifier = D2FB4721;
+};
+},
+{
+alignment = -1;
+ref = sinTa;
+userData = {
+UFO.identifier = 2F0B9711;
+};
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -200;
+width = 66;
+},
+{
+position = 0;
+width = 66;
+},
+{
+position = 303;
+width = 61;
+},
+{
+position = 472;
+width = 63;
+}
+);
+vhints = (
+{
+position = 65;
+width = 63;
+},
+{
+position = 113;
+width = 55;
+},
+{
+position = 146;
+width = 66;
+},
+{
+position = 452;
+width = 66;
+},
+{
+position = 608;
+width = 66;
+},
+{
+position = 684;
+width = 68;
+}
+);
+};
+};
+width = 791;
+}
+);
+}

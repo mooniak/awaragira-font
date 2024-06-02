@@ -1,0 +1,50 @@
+{
+glyphname = sinRakar;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(458,-200,o),
+(605,-144,o),
+(587,-28,c),
+(521,-28,l),
+(538,-101,o),
+(427,-134,o),
+(323,-134,cs),
+(220,-134,o),
+(108,-101,o),
+(125,-28,c),
+(59,-28,l),
+(41,-144,o),
+(188,-200,o),
+(323,-200,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -200;
+width = 66;
+}
+);
+vhints = (
+{
+position = 59;
+width = 66;
+},
+{
+position = 521;
+width = 66;
+}
+);
+};
+};
+width = 677;
+}
+);
+}

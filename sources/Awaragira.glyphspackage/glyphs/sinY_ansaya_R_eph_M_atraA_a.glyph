@@ -1,0 +1,26 @@
+{
+glyphname = sinYansaya_Reph_MatraAa;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (566,0);
+ref = sinMatraAa;
+userData = {
+UFO.identifier = BEC4D6E4;
+};
+},
+{
+alignment = -1;
+ref = sinYansaya.reph;
+userData = {
+UFO.identifier = 30BADFDB;
+};
+}
+);
+width = 821;
+}
+);
+}

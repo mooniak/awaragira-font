@@ -1,0 +1,94 @@
+{
+glyphname = sinNy;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (988,0);
+ref = sinVirama;
+},
+{
+ref = sinNya;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -200;
+width = 66;
+},
+{
+position = 0;
+width = 48;
+},
+{
+position = 48;
+width = 18;
+},
+{
+position = 313;
+width = 53;
+},
+{
+position = 323;
+width = 66;
+},
+{
+position = 450;
+width = 287;
+},
+{
+position = 471;
+width = 64;
+}
+);
+vhints = (
+{
+position = -154;
+width = 64;
+},
+{
+position = 57;
+width = 63;
+},
+{
+position = 91;
+width = 55;
+},
+{
+position = 243;
+width = 66;
+},
+{
+position = 444;
+width = 68;
+},
+{
+position = 546;
+width = 68;
+},
+{
+position = 599;
+width = 64;
+},
+{
+position = 708;
+width = 66;
+},
+{
+position = 864;
+width = 67;
+},
+{
+position = 940;
+width = 66;
+}
+);
+};
+};
+width = 1240;
+}
+);
+}

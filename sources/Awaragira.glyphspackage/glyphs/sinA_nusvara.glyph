@@ -1,0 +1,70 @@
+{
+glyphname = sinAnusvara;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(263,89,o),
+(330,156,o),
+(330,239,cs),
+(330,322,o),
+(263,389,o),
+(180,389,cs),
+(97,389,o),
+(30,322,o),
+(30,239,cs),
+(30,156,o),
+(97,89,o),
+(180,89,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(130,149,o),
+(90,189,o),
+(90,239,cs),
+(90,289,o),
+(130,329,o),
+(180,329,cs),
+(230,329,o),
+(270,289,o),
+(270,239,cs),
+(270,189,o),
+(230,149,o),
+(180,149,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 89;
+width = 60;
+},
+{
+position = 329;
+width = 60;
+}
+);
+vhints = (
+{
+position = 30;
+width = 60;
+},
+{
+position = 270;
+width = 60;
+}
+);
+};
+};
+width = 360;
+}
+);
+unicode = 3458;
+}

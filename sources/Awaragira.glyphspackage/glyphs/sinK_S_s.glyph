@@ -1,0 +1,23 @@
+{
+glyphname = sinKSs;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(977,499,l),
+(977,737,l),
+(910,737,l),
+(910,499,l)
+);
+},
+{
+ref = sinKSsa;
+}
+);
+width = 1144;
+}
+);
+}

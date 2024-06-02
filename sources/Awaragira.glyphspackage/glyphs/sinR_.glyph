@@ -1,0 +1,55 @@
+{
+glyphname = sinR;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(217,500,l),
+(217,737,l),
+(155,737,l),
+(155,500,l)
+);
+},
+{
+ref = sinRa;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 68;
+},
+{
+position = 457;
+width = 63;
+}
+);
+vhints = (
+{
+position = 40;
+width = 68;
+},
+{
+position = 155;
+width = 62;
+},
+{
+position = 354;
+width = 78;
+},
+{
+position = 507;
+width = 68;
+}
+);
+};
+};
+width = 615;
+}
+);
+}

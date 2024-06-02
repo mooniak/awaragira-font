@@ -1,0 +1,21 @@
+{
+glyphname = uni200C;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,1,l),
+(30,800,l),
+(-33,800,l),
+(-33,1,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 8204;
+}

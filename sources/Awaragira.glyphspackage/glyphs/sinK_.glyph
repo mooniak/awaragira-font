@@ -1,0 +1,66 @@
+{
+glyphname = sinK;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (720,0);
+ref = sinVirama;
+},
+{
+ref = sinKa;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 66;
+},
+{
+position = 313;
+width = 53;
+},
+{
+position = 450;
+width = 287;
+},
+{
+position = 469;
+width = 66;
+}
+);
+vhints = (
+{
+position = 47;
+width = 63;
+},
+{
+position = 81;
+width = 55;
+},
+{
+position = 233;
+width = 66;
+},
+{
+position = 434;
+width = 68;
+},
+{
+position = 596;
+width = 67;
+},
+{
+position = 665;
+width = 68;
+}
+);
+};
+};
+width = 803;
+}
+);
+}

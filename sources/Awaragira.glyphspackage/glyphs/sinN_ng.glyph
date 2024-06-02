@@ -1,0 +1,62 @@
+{
+glyphname = sinNng;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (836,0);
+ref = sinVirama;
+},
+{
+ref = sinNnga;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 68;
+},
+{
+position = 450;
+width = 287;
+},
+{
+position = 467;
+width = 68;
+}
+);
+vhints = (
+{
+position = 40;
+width = 64;
+},
+{
+position = 173;
+width = 68;
+},
+{
+position = 398;
+width = 68;
+},
+{
+position = 537;
+width = 68;
+},
+{
+position = 712;
+width = 67;
+},
+{
+position = 792;
+width = 68;
+}
+);
+};
+};
+width = 900;
+}
+);
+}

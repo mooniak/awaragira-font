@@ -1,0 +1,60 @@
+{
+glyphname = sinTh;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(576,450,l),
+(576,737,l),
+(516,737,l),
+(516,657,l),
+(538,450,l)
+);
+},
+{
+ref = sinTha;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 68;
+},
+{
+position = 367;
+width = 68;
+},
+{
+position = 471;
+width = 60;
+}
+);
+vhints = (
+{
+position = 21;
+width = 68;
+},
+{
+position = 504;
+width = 60;
+},
+{
+position = 508;
+width = 68;
+},
+{
+position = 526;
+width = 38;
+}
+);
+};
+};
+width = 635;
+}
+);
+}
