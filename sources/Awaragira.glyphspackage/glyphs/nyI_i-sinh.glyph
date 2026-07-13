@@ -1,0 +1,18 @@
+{
+glyphname = "nyIi-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1247,0);
+ref = "iisign-sinh";
+},
+{
+ref = "nya-sinh";
+}
+);
+width = 1240;
+}
+);
+}

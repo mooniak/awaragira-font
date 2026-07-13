@@ -1,0 +1,14 @@
+{
+glyphname = "jnyR-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "jny-sinh";
+}
+);
+width = 1132;
+}
+);
+}

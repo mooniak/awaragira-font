@@ -1,0 +1,26 @@
+{
+glyphname = "bRa-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (18,0);
+ref = "rasign-sinh";
+userData = {
+UFO.identifier = "40926312";
+};
+},
+{
+alignment = -1;
+ref = "ba-sinh";
+userData = {
+UFO.identifier = 25503CA6;
+};
+}
+);
+width = 684;
+}
+);
+}

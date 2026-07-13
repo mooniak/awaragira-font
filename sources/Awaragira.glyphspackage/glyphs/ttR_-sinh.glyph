@@ -1,0 +1,26 @@
+{
+glyphname = "ttR-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (-10,0);
+ref = "rasign-sinh";
+userData = {
+UFO.identifier = 98CF0D53;
+};
+},
+{
+alignment = -1;
+ref = "tt-sinh";
+userData = {
+UFO.identifier = CC610162;
+};
+}
+);
+width = 635;
+}
+);
+}

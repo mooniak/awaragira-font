@@ -1,0 +1,14 @@
+{
+glyphname = "dRIi-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "dIi-sinh";
+}
+);
+width = 526;
+}
+);
+}

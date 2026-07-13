@@ -1,0 +1,18 @@
+{
+glyphname = "yasign_isign-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (592,0);
+ref = "isign-sinh";
+},
+{
+ref = "yasign-sinh";
+}
+);
+width = 607;
+}
+);
+}

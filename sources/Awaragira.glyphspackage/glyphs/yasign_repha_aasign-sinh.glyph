@@ -1,0 +1,26 @@
+{
+glyphname = "yasign_repha_aasign-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (566,0);
+ref = "aasign-sinh";
+userData = {
+UFO.identifier = BEC4D6E4;
+};
+},
+{
+alignment = -1;
+ref = "yasign_repha-sinh";
+userData = {
+UFO.identifier = 30BADFDB;
+};
+}
+);
+width = 821;
+}
+);
+}

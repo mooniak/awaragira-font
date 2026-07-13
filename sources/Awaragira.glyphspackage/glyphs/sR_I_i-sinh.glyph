@@ -1,0 +1,26 @@
+{
+glyphname = "sRIi-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (22,0);
+ref = "rasign-sinh";
+userData = {
+UFO.identifier = 1FCF587E;
+};
+},
+{
+alignment = -1;
+ref = "sIi-sinh";
+userData = {
+UFO.identifier = 9E7C06D8;
+};
+}
+);
+width = 673;
+}
+);
+}

@@ -1,0 +1,14 @@
+{
+glyphname = "nyR-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "ny-sinh";
+}
+);
+width = 1240;
+}
+);
+}
