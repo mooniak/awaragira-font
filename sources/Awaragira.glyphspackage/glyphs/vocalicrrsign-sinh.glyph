@@ -1,4 +1,5 @@
 {
+category = Mark;
 glyphname = "vocalicrrsign-sinh";
 layers = (
 {
@@ -8,16 +9,10 @@ shapes = (
 alignment = -1;
 pos = (306,0);
 ref = "vocalicrsign-sinh";
-userData = {
-UFO.identifier = 5AA31B0E;
-};
 },
 {
 alignment = -1;
 ref = "vocalicrsign-sinh";
-userData = {
-UFO.identifier = C9DD9B4E;
-};
 }
 );
 userData = {
@@ -75,5 +70,6 @@ width = 64;
 width = 629;
 }
 );
+subCategory = Spacing;
 unicode = 3570;
 }

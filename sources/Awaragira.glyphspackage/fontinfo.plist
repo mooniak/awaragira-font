@@ -1,6 +1,16 @@
 {
 .appVersion = "3513";
 .formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Width;
+tag = wdth;
+}
+);
 customParameters = (
 {
 name = "Write lastChange";
@@ -9,6 +19,15 @@ value = 0;
 {
 name = "Write DisplayStrings";
 value = 0;
+},
+{
+name = vendorID;
+value = MNIK;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2021-06-28 04:14:33 +0000";
@@ -620,6 +639,10 @@ tag = dist;
 );
 fontMaster = (
 {
+axesValues = (
+100,
+100
+);
 guides = (
 {
 pos = (500,388.75);
@@ -637,6 +660,7 @@ pos = (500,737.003);
 id = m001;
 metricValues = (
 {
+over = 0;
 pos = 800;
 },
 {
@@ -644,11 +668,14 @@ over = 10;
 pos = 769;
 },
 {
+over = 0;
 pos = -200;
 },
 {
+over = 0;
 },
 {
+over = 0;
 pos = 684;
 },
 {
@@ -656,6 +683,7 @@ over = 11;
 pos = 825;
 },
 {
+over = 0;
 pos = -242;
 }
 );
@@ -700,6 +728,8 @@ value = Awaragira;
 );
 }
 );
+kerningLTR = {
+};
 metrics = (
 {
 type = ascender;
@@ -744,7 +774,7 @@ value = "Rajitha Manaperi";
 },
 {
 key = designerURL;
-value = "http://mooniak.com";
+value = "http://www.mooniak.com/";
 },
 {
 key = licenses;
@@ -789,6 +819,8 @@ value = MNIK;
 settings = {
 disablesNiceNames = 1;
 };
+stems = (
+);
 unitsPerEm = 1000;
 userData = {
 UFOFormat = 3;

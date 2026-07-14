@@ -8,17 +8,11 @@ shapes = (
 alignment = -1;
 pos = (878,0);
 ref = "vocalicllsign-sinh";
-userData = {
-UFO.identifier = 5CADBD34;
-};
 },
 {
 alignment = -1;
 pos = (0,11);
 ref = "vocalicl-sinh";
-userData = {
-UFO.identifier = FD84CCDC;
-};
 }
 );
 userData = {

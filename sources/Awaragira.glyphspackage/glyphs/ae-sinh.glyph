@@ -8,16 +8,10 @@ shapes = (
 alignment = -1;
 pos = (558,0);
 ref = "aesign-sinh";
-userData = {
-UFO.identifier = 9B8717CC;
-};
 },
 {
 alignment = -1;
 ref = "a-sinh";
-userData = {
-UFO.identifier = D72D574A;
-};
 }
 );
 userData = {
