@@ -11,9 +11,8 @@
   "description": "A default Sinhala font for GNU/Linux systems, designed to replace LKLUG as the system default UI typeface.",
   "license": "OFL-1.1",
   "channels": [
-    "release",
-    "dev",
-    "nightly"
+    "canary",
+    "dev"
   ],
   "versions_provider": "tags",
   "repository": {
