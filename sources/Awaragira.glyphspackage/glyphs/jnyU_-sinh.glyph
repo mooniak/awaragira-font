@@ -222,7 +222,9 @@ width = 66;
 );
 };
 };
-width = 1132;
+width = 1111;
 }
 );
+metricLeft = "jnya-sinh";
+metricRight = "jnya-sinh";
 }

@@ -205,7 +205,9 @@ width = 68;
 );
 };
 };
-width = 696;
+width = 697;
 }
 );
+metricLeft = "mba-sinh";
+metricRight = "mba-sinh";
 }

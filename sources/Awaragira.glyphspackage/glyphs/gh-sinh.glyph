@@ -80,4 +80,6 @@ width = 68;
 width = 673;
 }
 );
+metricLeft = "gha-sinh";
+metricRight = "gha-sinh";
 }

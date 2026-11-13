@@ -130,4 +130,6 @@ width = 68;
 width = 635;
 }
 );
+metricLeft = "tha-sinh";
+metricRight = "tha-sinh";
 }

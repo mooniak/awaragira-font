@@ -162,4 +162,6 @@ width = 68;
 width = 697;
 }
 );
+metricLeft = "kha-sinh";
+metricRight = "kha-sinh";
 }

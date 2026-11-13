@@ -21,5 +21,7 @@ ref = "aasign-sinh";
 width = 255;
 }
 );
+metricLeft = "aasign-sinh";
+metricRight = "aasign-sinh";
 subCategory = Spacing;
 }

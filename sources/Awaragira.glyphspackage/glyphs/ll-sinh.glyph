@@ -100,4 +100,6 @@ width = 68;
 width = 656;
 }
 );
+metricLeft = "lla-sinh";
+metricRight = "lla-sinh";
 }

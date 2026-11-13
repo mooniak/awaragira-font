@@ -213,4 +213,6 @@ width = 66;
 width = 791;
 }
 );
+metricLeft = "nyja-sinh";
+metricRight = "nyja-sinh";
 }

@@ -111,4 +111,6 @@ nodes = (
 width = 663;
 }
 );
+metricLeft = "ca-sinh";
+metricRight = "ca-sinh";
 }

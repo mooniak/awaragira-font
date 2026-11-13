@@ -139,4 +139,6 @@ width = 68;
 width = 797;
 }
 );
+metricLeft = "bha-sinh";
+metricRight = "bha-sinh";
 }

@@ -82,4 +82,6 @@ width = 68;
 width = 777;
 }
 );
+metricLeft = "ha-sinh";
+metricRight = "ha-sinh";
 }

@@ -72,4 +72,6 @@ width = 66;
 width = 647;
 }
 );
+metricLeft = "nda-sinh";
+metricRight = "nda-sinh";
 }

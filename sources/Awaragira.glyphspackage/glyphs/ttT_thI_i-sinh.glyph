@@ -223,4 +223,6 @@ width = 68;
 width = 838;
 }
 );
+metricLeft = "tta-sinh";
+metricRight = "tta-sinh";
 }

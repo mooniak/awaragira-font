@@ -147,4 +147,6 @@ width = 68;
 width = 683;
 }
 );
+metricLeft = "ttha-sinh";
+metricRight = "ttha-sinh";
 }

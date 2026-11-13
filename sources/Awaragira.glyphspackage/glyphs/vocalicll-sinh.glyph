@@ -5,14 +5,11 @@ layers = (
 layerId = m001;
 shapes = (
 {
-alignment = -1;
-pos = (878,0);
-ref = "vocalicllsign-sinh";
+ref = "vocalicl-sinh";
 },
 {
-alignment = -1;
-pos = (0,11);
-ref = "vocalicl-sinh";
+pos = (863,0);
+ref = "vocaliclsign-sinh";
 }
 );
 userData = {
@@ -95,7 +92,7 @@ width = 64;
 );
 };
 };
-width = 1309;
+width = 1314;
 }
 );
 unicode = 3472;

@@ -1,5 +1,5 @@
 {
-.appVersion = "3513";
+.appVersion = "3532";
 .formatVersion = 3;
 axes = (
 {
@@ -660,7 +660,6 @@ pos = (500,737.003);
 id = m001;
 metricValues = (
 {
-over = 0;
 pos = 800;
 },
 {
@@ -668,14 +667,11 @@ over = 10;
 pos = 769;
 },
 {
-over = 0;
 pos = -200;
 },
 {
-over = 0;
 },
 {
-over = 0;
 pos = 684;
 },
 {
@@ -683,7 +679,6 @@ over = 11;
 pos = 825;
 },
 {
-over = 0;
 pos = -242;
 }
 );
@@ -728,8 +723,6 @@ value = Awaragira;
 );
 }
 );
-kerningLTR = {
-};
 metrics = (
 {
 type = ascender;
@@ -819,8 +812,6 @@ value = MNIK;
 settings = {
 disablesNiceNames = 1;
 };
-stems = (
-);
 unitsPerEm = 1000;
 userData = {
 UFOFormat = 3;

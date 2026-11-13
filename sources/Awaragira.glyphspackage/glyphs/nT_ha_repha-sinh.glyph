@@ -488,7 +488,9 @@ nodes = (
 );
 }
 );
-width = 1105;
+width = 1106;
 }
 );
+metricLeft = "nTha-sinh";
+metricRight = "nTha-sinh";
 }

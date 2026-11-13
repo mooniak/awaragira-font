@@ -289,8 +289,10 @@ width = 66;
 );
 };
 };
-width = 1240;
+width = 1205;
 }
 );
+metricLeft = "ga-sinh";
+metricRight = "da-sinh";
 unicode = 3492;
 }

@@ -354,7 +354,9 @@ nodes = (
 );
 }
 );
-width = 761;
+width = 762;
 }
 );
+metricLeft = "dVa-sinh";
+metricRight = "dVa-sinh";
 }

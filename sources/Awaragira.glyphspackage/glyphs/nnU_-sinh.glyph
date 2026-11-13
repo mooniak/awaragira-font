@@ -96,4 +96,6 @@ width = 64;
 width = 996;
 }
 );
+metricLeft = "nna-sinh";
+metricRight = "nna-sinh";
 }

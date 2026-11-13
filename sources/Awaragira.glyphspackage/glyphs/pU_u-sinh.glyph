@@ -155,4 +155,6 @@ width = 66;
 width = 634;
 }
 );
+metricLeft = "pa-sinh";
+metricRight = "pa-sinh";
 }

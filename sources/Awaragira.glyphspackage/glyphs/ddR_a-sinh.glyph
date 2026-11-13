@@ -6,15 +6,15 @@ layerId = m001;
 shapes = (
 {
 alignment = -1;
-pos = (30,0);
-ref = "rasign-sinh";
+ref = "dda-sinh";
 },
 {
-alignment = -1;
-ref = "dda-sinh";
+ref = "rasign-sinh";
 }
 );
 width = 696;
 }
 );
+metricLeft = "dda-sinh";
+metricRight = "dda-sinh";
 }

@@ -226,7 +226,9 @@ nodes = (
 );
 }
 );
-width = 1139;
+width = 1138;
 }
 );
+metricLeft = "ta-sinh";
+metricRight = "ga-sinh";
 }

@@ -1,0 +1,32 @@
+{
+color = 1;
+glyphname = "rasign-sinh.short";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(458,-200,o),
+(605,-144,o),
+(587,-28,c),
+(521,-28,l),
+(538,-101,o),
+(427,-134,o),
+(323,-134,cs),
+(220,-134,o),
+(108,-101,o),
+(125,-28,c),
+(59,-28,l),
+(41,-144,o),
+(188,-200,o),
+(323,-200,cs)
+);
+}
+);
+width = 677;
+}
+);
+note = "Seeded from rasign-sinh by Sinhala Glyph Builder — redesign as the short variant.";
+}

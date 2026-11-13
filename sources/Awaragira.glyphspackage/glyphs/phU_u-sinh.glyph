@@ -160,4 +160,6 @@ width = 68;
 width = 662;
 }
 );
+metricLeft = "pha-sinh";
+metricRight = "pha-sinh";
 }

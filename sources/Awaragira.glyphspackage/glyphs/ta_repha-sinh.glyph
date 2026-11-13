@@ -141,4 +141,6 @@ width = 68;
 width = 791;
 }
 );
+metricLeft = "ta-sinh";
+metricRight = "ta-sinh";
 }

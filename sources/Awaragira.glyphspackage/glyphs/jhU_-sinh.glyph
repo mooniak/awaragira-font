@@ -213,4 +213,6 @@ width = 51;
 width = 1215;
 }
 );
+metricLeft = "jha-sinh";
+metricRight = "jha-sinh";
 }

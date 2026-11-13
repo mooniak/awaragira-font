@@ -5,16 +5,14 @@ layers = (
 layerId = m001;
 shapes = (
 {
-alignment = -1;
-pos = (566,0);
-ref = "aasign-sinh";
+ref = "yasign_repha-sinh";
 },
 {
-alignment = -1;
-ref = "yasign_repha-sinh";
+pos = (607,0);
+ref = "aasign-sinh";
 }
 );
-width = 821;
+width = 862;
 }
 );
 }

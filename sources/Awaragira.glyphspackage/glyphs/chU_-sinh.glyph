@@ -181,4 +181,6 @@ width = 66;
 width = 634;
 }
 );
+metricLeft = "cha-sinh";
+metricRight = "cha-sinh";
 }

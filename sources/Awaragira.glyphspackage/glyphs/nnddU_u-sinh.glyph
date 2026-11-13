@@ -203,4 +203,6 @@ width = 68;
 width = 838;
 }
 );
+metricLeft = "nndda-sinh";
+metricRight = "nndda-sinh";
 }

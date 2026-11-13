@@ -286,7 +286,9 @@ width = 66;
 );
 };
 };
-width = 1240;
+width = 1219;
 }
 );
+metricLeft = "nya-sinh";
+metricRight = "nya-sinh";
 }

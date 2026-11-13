@@ -64,4 +64,6 @@ width = 68;
 width = 664;
 }
 );
+metricLeft = "ya-sinh";
+metricRight = "ya-sinh";
 }

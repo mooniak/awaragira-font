@@ -60,4 +60,6 @@ width = 66;
 width = 634;
 }
 );
+metricLeft = "ssa-sinh";
+metricRight = "ssa-sinh";
 }

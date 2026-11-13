@@ -150,4 +150,6 @@ nodes = (
 width = 696;
 }
 );
+metricLeft = "ddha-sinh";
+metricRight = "ddha-sinh";
 }

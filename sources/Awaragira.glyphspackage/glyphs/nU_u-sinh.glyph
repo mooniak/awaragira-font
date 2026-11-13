@@ -82,4 +82,6 @@ width = 68;
 width = 774;
 }
 );
+metricLeft = "na-sinh";
+metricRight = "na-sinh";
 }

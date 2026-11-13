@@ -172,4 +172,6 @@ width = 66;
 width = 634;
 }
 );
+metricLeft = "ja-sinh";
+metricRight = "ja-sinh";
 }

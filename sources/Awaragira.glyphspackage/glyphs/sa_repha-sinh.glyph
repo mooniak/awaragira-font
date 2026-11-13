@@ -207,4 +207,6 @@ width = 68;
 width = 673;
 }
 );
+metricLeft = "sa-sinh";
+metricRight = "sa-sinh";
 }

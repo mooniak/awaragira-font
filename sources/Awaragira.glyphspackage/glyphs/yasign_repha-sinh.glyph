@@ -154,4 +154,6 @@ nodes = (
 width = 607;
 }
 );
+metricLeft = "yasign-sinh";
+metricRight = "yasign-sinh";
 }

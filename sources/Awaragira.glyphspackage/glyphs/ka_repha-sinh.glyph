@@ -226,4 +226,6 @@ width = 68;
 width = 803;
 }
 );
+metricLeft = "ka-sinh";
+metricRight = "ka-sinh";
 }

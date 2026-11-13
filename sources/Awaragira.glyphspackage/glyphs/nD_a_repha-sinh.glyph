@@ -514,7 +514,9 @@ nodes = (
 );
 }
 );
-width = 1039;
+width = 1037;
 }
 );
+metricLeft = "nDa-sinh";
+metricRight = "nDa-sinh";
 }

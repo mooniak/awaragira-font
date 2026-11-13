@@ -36,4 +36,6 @@ ref = "yasign_repha-sinh";
 width = 607;
 }
 );
+metricLeft = "yasign-sinh";
+metricRight = "yasign-sinh";
 }

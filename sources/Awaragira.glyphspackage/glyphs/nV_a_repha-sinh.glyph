@@ -514,4 +514,6 @@ nodes = (
 width = 1117;
 }
 );
+metricLeft = "nVa-sinh";
+metricRight = "nVa-sinh";
 }

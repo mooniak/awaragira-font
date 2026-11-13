@@ -46,4 +46,6 @@ ref = "nna-sinh";
 width = 996;
 }
 );
+metricLeft = "nna-sinh";
+metricRight = "nna-sinh";
 }

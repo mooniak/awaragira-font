@@ -370,7 +370,9 @@ nodes = (
 );
 }
 );
-width = 809;
+width = 810;
 }
 );
+metricLeft = "dDha-sinh";
+metricRight = "dDha-sinh";
 }
