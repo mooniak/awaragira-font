@@ -687,6 +687,10 @@ name = Regular;
 );
 instances = (
 {
+axesValues = (
+0,
+0
+);
 customParameters = (
 {
 name = postscriptWeightName;
@@ -810,6 +814,7 @@ value = MNIK;
 }
 );
 settings = {
+disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
@@ -817,5 +822,5 @@ userData = {
 UFOFormat = 3;
 };
 versionMajor = 0;
-versionMinor = 10;
+versionMinor = 500;
 }
