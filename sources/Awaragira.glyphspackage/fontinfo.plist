@@ -1,16 +1,6 @@
 {
 .appVersion = "3532";
 .formatVersion = 3;
-axes = (
-{
-name = Weight;
-tag = wght;
-},
-{
-name = Width;
-tag = wdth;
-}
-);
 customParameters = (
 {
 name = "Write lastChange";
@@ -639,10 +629,6 @@ tag = dist;
 );
 fontMaster = (
 {
-axesValues = (
-100,
-100
-);
 guides = (
 {
 pos = (500,388.75);
@@ -687,10 +673,6 @@ name = Regular;
 );
 instances = (
 {
-axesValues = (
-0,
-0
-);
 customParameters = (
 {
 name = postscriptWeightName;
