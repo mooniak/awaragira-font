@@ -1,0 +1,43 @@
+[
+ {
+  "family": "Awaragira",
+  "commit": "3a32df13126fede0674903ab060bb2040c748d08",
+  "commit_short": "3a32df1",
+  "version": "0.500",
+  "generated_at": "2026-11-13T08:18:55Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 68,
+   "counts": {
+    "FAIL": 11,
+    "WARN": 18,
+    "SKIP": 86,
+    "INFO": 12,
+    "PASS": 89
+   },
+   "total_checks": 216
+  },
+  "run_url": "https://github.com/mooniak/awaragira-font/actions/runs/43392124292",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/awaragira-font"
+ }
+]
