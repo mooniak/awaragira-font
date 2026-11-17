@@ -3,6 +3,7 @@
   "id": "awaragira",
   "type": "family",
   "designer": [
+    "Rajitha Manamperi",
     "Mooniak"
   ],
   "scripts": [
@@ -31,9 +32,9 @@
   },
   "designers": [
     {
-      "name": "Pathum Egodawatta",
-      "email": "pathum@mooniak.com",
-      "url": "https://pathumego.com/"
+      "name": "Rajitha Manamperi",
+      "email": "",
+      "url": ""
     }
   ],
   "maintenance": {
