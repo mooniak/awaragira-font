@@ -1,5 +1,20 @@
 # A default Sinhala font for GNU/Linux systems 
 
+[![Build][badge-build]][link-build]
+[![Fontspector QA][badge-qa]][link-qa]
+[![Release][badge-release]][link-release]
+[![License: OFL 1.1](https://img.shields.io/badge/license-OFL--1.1-green)](OFL.txt)
+
+[badge-build]: https://github.com/mooniak/awaragira-font/actions/workflows/build.yaml/badge.svg?branch=dev
+[badge-qa]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsrc.mooniak.com%2Fawaragira-font%2Fbuild.json&query=%24.qa.pass_rate&suffix=%25&label=fontspector%20QA%20(dev%20build)&color=informational
+[badge-release]: https://img.shields.io/github/v/release/mooniak/awaragira-font?label=release
+[link-build]: https://github.com/mooniak/awaragira-font/actions/workflows/build.yaml
+[link-qa]: https://src.mooniak.com/awaragira-font/reports/fontspector/fontspector-report.html
+[link-release]: https://github.com/mooniak/awaragira-font/releases
+
+![Awaragira specimen](documentation/image1.png)
+![Awaragira character set](documentation/image2.png)
+
 This project is an effort to design and develop a font to become the system default UI typeface on GNU/Linux systems replacing the current LKLUG Font.
 
 < TODO Complete the README >
