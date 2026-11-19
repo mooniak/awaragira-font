@@ -1,0 +1,108 @@
+{
+  "id": "awaragira",
+  "family": "Awaragira",
+  "scripts": [
+    "Sinh"
+  ],
+  "version": "0.500",
+  "channel": "canary",
+  "commit": "7b72019b6bd2bcfba68bb80f074c4844a8ca4137",
+  "commit_short": "7b72019",
+  "ref_name": "dev",
+  "repository": "mooniak/awaragira-font",
+  "run_url": "https://github.com/mooniak/awaragira-font/actions/runs/44470113154",
+  "actor": "pathumego",
+  "generated_at": "2026-11-19T06:10:36Z",
+  "qa": {
+    "profile": "googlefonts",
+    "verdict": "fail",
+    "pass_rate": 67,
+    "counts": {
+      "FAIL": 12,
+      "WARN": 19,
+      "SKIP": 86,
+      "INFO": 12,
+      "PASS": 88
+    },
+    "total_checks": 217
+  },
+  "stage": {
+    "n": 10,
+    "name": "Long tail and polish",
+    "cumulative": 110,
+    "total": 110,
+    "gate_met": true,
+    "kernel_checkable_complete": true,
+    "kernel_complete": null,
+    "unverified_kernel_entries": [
+      "classic-conjuncts",
+      "conjunct-i-forms",
+      "ksha",
+      "rakaransaya",
+      "repaya",
+      "yansaya"
+    ]
+  },
+  "files": [
+    {
+      "path": "fonts/otf/AwaragiraCANARY-Regular.otf",
+      "format": "otf",
+      "bytes": 66340,
+      "sha256": "c69ed3d530f6937a283412206b0496a01816991113eb90ac95293f9f1db17992",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/AwaragiraCANARY-Regular.ttf",
+      "format": "ttf",
+      "bytes": 221316,
+      "sha256": "4a8f3bff7e42dae56431687a07dfb762c9e1b212b8f9728dbf4c89b2218902d6",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/AwaragiraCANARY-Regular.woff2",
+      "format": "woff2",
+      "bytes": 60780,
+      "sha256": "88f7ece85e68b5956ea696692edfe6962714fe4a8f897ea15e757218175a918e",
+      "style": "Regular",
+      "kind": "static"
+    }
+  ],
+  "proof_gate": {
+    "stage": 10,
+    "gated": true,
+    "shown": [
+      "classical-texts",
+      "conjuncts",
+      "devanagari-pangram",
+      "display-strings",
+      "indo-arabic-numerals",
+      "kern-pairs",
+      "libreoffice-ui-strings",
+      "marks",
+      "mixed-script",
+      "multiscript",
+      "numerals",
+      "ot-features",
+      "pali-and-sanskrit-words",
+      "prose",
+      "punctuation",
+      "rakar",
+      "shape-groups",
+      "signs-combinations",
+      "sinhala-alphabet",
+      "sinhala-pangram",
+      "spacing_strings",
+      "structured-texts",
+      "tamil-alphabet",
+      "tamil-kern-pairs",
+      "tamil-numerals",
+      "tamil-pangram",
+      "tamil-prose",
+      "test-texts-stages"
+    ],
+    "withheld": [],
+    "missing_for_next": []
+  }
+}
