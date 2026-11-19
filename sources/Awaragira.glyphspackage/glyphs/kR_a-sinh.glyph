@@ -6,7 +6,7 @@ layerId = m001;
 shapes = (
 {
 alignment = -1;
-pos = (82,0);
+pos = (87,0);
 ref = "rasign-sinh";
 },
 {
@@ -14,7 +14,7 @@ alignment = -1;
 ref = "ka-sinh";
 }
 );
-width = 803;
+width = 856;
 }
 );
 }

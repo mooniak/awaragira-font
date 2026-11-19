@@ -558,7 +558,7 @@ lookup fracDiagonalFractionsinSinhalalookup18 {
 # GPOS 
 lookup distDistanceinSinhalalookup0 {
   lookupflag 0;
-    pos touch-sinh <0 0 -110 0>;
+    pos touch-sinh <0 0 -117 0>;
 } distDistanceinSinhalalookup0;
 
 ";
@@ -631,41 +631,41 @@ fontMaster = (
 {
 guides = (
 {
-pos = (500,388.75);
+pos = (533,414);
 },
 {
-pos = (500,640);
+pos = (533,682);
 },
 {
-pos = (500,534.75);
+pos = (533,570);
 },
 {
-pos = (500,737.003);
+pos = (533,785);
 }
 );
 id = m001;
 metricValues = (
 {
-pos = 800;
-},
-{
-over = 10;
-pos = 769;
-},
-{
-pos = -200;
-},
-{
-},
-{
-pos = 684;
+pos = 852;
 },
 {
 over = 11;
-pos = 825;
+pos = 819;
 },
 {
-pos = -242;
+pos = -213;
+},
+{
+},
+{
+pos = 729;
+},
+{
+over = 12;
+pos = 879;
+},
+{
+pos = -258;
 }
 );
 name = Regular;

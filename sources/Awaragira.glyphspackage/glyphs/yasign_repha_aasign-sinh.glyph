@@ -8,11 +8,11 @@ shapes = (
 ref = "yasign_repha-sinh";
 },
 {
-pos = (607,0);
+pos = (647,0);
 ref = "aasign-sinh";
 }
 );
-width = 862;
+width = 918;
 }
 );
 }

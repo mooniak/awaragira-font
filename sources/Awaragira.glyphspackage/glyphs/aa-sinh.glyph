@@ -6,7 +6,7 @@ layerId = m001;
 shapes = (
 {
 alignment = -1;
-pos = (574,0);
+pos = (612,0);
 ref = "aasign-sinh";
 },
 {
@@ -71,7 +71,7 @@ width = 66;
 );
 };
 };
-width = 829;
+width = 883;
 }
 );
 unicode = 3462;

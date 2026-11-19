@@ -7,7 +7,7 @@ layerId = m001;
 shapes = (
 {
 alignment = -1;
-pos = (504,0);
+pos = (537,0);
 ref = "esign-sinh";
 },
 {
@@ -59,7 +59,7 @@ width = 66;
 );
 };
 };
-width = 1017;
+width = 1084;
 }
 );
 script = sinhala;

@@ -8,17 +8,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(131,450,l),
-(131,737,l),
-(64,737,l),
-(68,450,l)
+(140,479,l),
+(140,785,l),
+(68,785,l),
+(72,479,l)
 );
 },
 {
 ref = "aasign-sinh";
 }
 );
-width = 255;
+width = 272;
 }
 );
 metricLeft = "aasign-sinh";

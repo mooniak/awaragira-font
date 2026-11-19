@@ -5,7 +5,7 @@ layers = (
 layerId = m001;
 shapes = (
 {
-pos = (606,0);
+pos = (646,0);
 ref = "iisign-sinh";
 },
 {
@@ -76,7 +76,7 @@ width = 66;
 );
 };
 };
-width = 634;
+width = 675;
 }
 );
 }

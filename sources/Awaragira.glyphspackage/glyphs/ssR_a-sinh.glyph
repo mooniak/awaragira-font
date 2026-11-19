@@ -12,7 +12,7 @@ ref = "ssa-sinh";
 ref = "rasign-sinh.pa";
 }
 );
-width = 634;
+width = 675;
 }
 );
 metricLeft = "ssa-sinh";

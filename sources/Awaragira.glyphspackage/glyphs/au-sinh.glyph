@@ -6,7 +6,7 @@ layerId = m001;
 shapes = (
 {
 alignment = -1;
-pos = (658,0);
+pos = (701,0);
 ref = "vocalicllsign-sinh";
 },
 {
@@ -94,7 +94,7 @@ width = 64;
 );
 };
 };
-width = 1089;
+width = 1160;
 }
 );
 unicode = 3478;

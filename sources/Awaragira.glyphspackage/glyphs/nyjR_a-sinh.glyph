@@ -12,7 +12,7 @@ ref = "nyja-sinh";
 ref = "rasign-sinh";
 }
 );
-width = 791;
+width = 843;
 }
 );
 metricLeft = "nyja-sinh";

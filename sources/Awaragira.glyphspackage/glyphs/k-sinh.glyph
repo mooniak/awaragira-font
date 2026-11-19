@@ -5,7 +5,7 @@ layers = (
 layerId = m001;
 shapes = (
 {
-pos = (720,0);
+pos = (767,0);
 ref = "virama-sinh";
 },
 {
@@ -60,7 +60,7 @@ width = 68;
 );
 };
 };
-width = 803;
+width = 856;
 }
 );
 }

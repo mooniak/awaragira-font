@@ -12,7 +12,7 @@ ref = "jha-sinh";
 ref = "rasign-sinh";
 }
 );
-width = 1215;
+width = 1294;
 }
 );
 metricLeft = "jha-sinh";
