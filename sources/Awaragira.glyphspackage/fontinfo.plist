@@ -18,6 +18,10 @@ value = MNIK;
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2021-06-28 04:14:33 +0000";
@@ -629,6 +633,40 @@ tag = dist;
 );
 fontMaster = (
 {
+customParameters = (
+{
+name = typoAscender;
+value = 987;
+},
+{
+name = typoDescender;
+value = -213;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 987;
+},
+{
+name = hheaDescender;
+value = -213;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1027;
+},
+{
+name = winDescent;
+value = 344;
+}
+);
 guides = (
 {
 pos = (533,414);
